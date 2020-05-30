@@ -1,5 +1,6 @@
 # HDB Tenancy Renewal App :house:
 _A CRUD Flask App for digitizing the tenancy renewal declaration process, built with Python Flask, MongoDB and Google Tesseract_
+:trophy: Shortlisted for GovTech Covid-19 Idea Sprint  
 
 ## Description
 ### Problem Statement
